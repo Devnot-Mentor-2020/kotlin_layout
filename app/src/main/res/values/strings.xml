@@ -1,9 +1,8 @@
-
 <resources>
-<string name="app_name">MYAPP</string>
-<string name="name">Hilal Umucu</string>
-<string name="yellow_star">Yellow star</string>
-<string name="bio">Hi, my name is Elif.
+    <string name="app_name">MYAPP</string>
+    <string name="name">Hilal Umucu</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Elif.
 \n\nI love books.
 \n\nThe kind that is alive and swims around in an ocean or sea, or a lake.
 \nFun fact is that I have several sea and also a river.
@@ -12,7 +11,10 @@
 \n\nOnce, when I was camping in İtaly, and very hungry, I gathered fruit from the garden with my hands.
 \nYou should ask someone else about camping, though.\n\n
     </string>
-<string name="what_is_your_nickname">What is your nickname</string>
-<string name="done">Done</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
 
